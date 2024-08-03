@@ -1,0 +1,1 @@
+# Extract ID of Go type
